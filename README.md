@@ -1,3 +1,3 @@
 # lis753-exercises
 
-Example of a local change.
+Exercises for my LIS 753 students to follow.
